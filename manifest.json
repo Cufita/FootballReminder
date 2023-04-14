@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "FootballReminder",
+  "version": "1.0",
+  "description": "FootballReminder its an extension who says the things most important about the match of your favorites teams",
+  "icons": {
+    "64": "iconBall.jpg",
+    "128": "iconBall.jpg"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
